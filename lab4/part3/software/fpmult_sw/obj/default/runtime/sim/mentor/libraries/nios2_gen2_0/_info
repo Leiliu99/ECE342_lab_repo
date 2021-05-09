@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/342lab4/part3/software/fpmult_sw/obj/default/runtime/sim/mentor
+vnios_system_nios2_gen2_0
+!s110 1613998304
+!i10b 1
+!s100 b4I;5FI]P[fZize^XfSXl2
+I^O62_XcRD[WY22zHIET0T3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1613996966
+8C:/342lab4/part3/nios_system/testbench/nios_system_tb/simulation/submodules/nios_system_nios2_gen2_0.v
+FC:/342lab4/part3/nios_system/testbench/nios_system_tb/simulation/submodules/nios_system_nios2_gen2_0.v
+L0 9
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1613998304.000000
+!s107 C:/342lab4/part3/nios_system/testbench/nios_system_tb/simulation/submodules/nios_system_nios2_gen2_0.v|
+!s90 -reportprogress|300|C:/342lab4/part3/nios_system/testbench/nios_system_tb/simulation/submodules/nios_system_nios2_gen2_0.v|-work|nios2_gen2_0|
+!i113 1
+o-work nios2_gen2_0
+tCvgOpt 0

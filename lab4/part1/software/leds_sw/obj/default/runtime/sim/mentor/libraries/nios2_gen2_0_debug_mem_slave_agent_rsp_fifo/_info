@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/342lab4/part1/software/leds_sw/obj/default/runtime/sim/mentor
+valtera_avalon_sc_fifo
+!s110 1613995712
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+IUPTF0C[2hY<[0L3iYb?WL0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1613995090
+8C:/342lab4/part1/nios_system/testbench/nios_system_tb/simulation/submodules/altera_avalon_sc_fifo.v
+FC:/342lab4/part1/nios_system/testbench/nios_system_tb/simulation/submodules/altera_avalon_sc_fifo.v
+L0 21
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1613995712.000000
+!s107 C:/342lab4/part1/nios_system/testbench/nios_system_tb/simulation/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|C:/342lab4/part1/nios_system/testbench/nios_system_tb/simulation/submodules/altera_avalon_sc_fifo.v|-work|nios2_gen2_0_debug_mem_slave_agent_rsp_fifo|
+!i113 1
+o-work nios2_gen2_0_debug_mem_slave_agent_rsp_fifo
+tCvgOpt 0

@@ -1,0 +1,22 @@
+@00000000
+// main:
+13 09 00 02 	// 0x00000000: addi s2, zero, ledr_addr
+03 29 09 00 	// 0x00000004: lw s2, s2, 0
+93 09 c0 01 	// 0x00000008: addi s3, zero, sw_addr
+83 a9 09 00 	// 0x0000000c: lw s3, s3, 0
+
+// loop:
+03 aa 09 00 	// 0x00000010: lw s4, s3, 0
+23 20 49 01 	// 0x00000014: sw s2, s4, 0
+6f f0 9f ff 	// 0x00000018: jal zero, loop
+
+// end:
+
+// sw_addr:
+// .dw 0x0000A010
+10 a0 00 00 
+
+// ledr_addr:
+// .dw 0x0000A000
+00 a0 00 00 
+

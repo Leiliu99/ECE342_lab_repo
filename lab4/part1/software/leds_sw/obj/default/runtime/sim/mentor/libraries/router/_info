@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/342lab4/part1/software/leds_sw/obj/default/runtime/sim/mentor
+vnios_system_mm_interconnect_0_router
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1613995712
+!i10b 1
+!s100 >85AJ=<5T_98R6N`U2?Z;0
+IKPGA7T58VZi1b?YJbMY_l2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 nios_system_mm_interconnect_0_router_sv_unit
+S1
+R0
+Z5 w1613995090
+Z6 8C:/342lab4/part1/nios_system/testbench/nios_system_tb/simulation/submodules/nios_system_mm_interconnect_0_router.sv
+Z7 FC:/342lab4/part1/nios_system/testbench/nios_system_tb/simulation/submodules/nios_system_mm_interconnect_0_router.sv
+L0 84
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1613995712.000000
+Z10 !s107 C:/342lab4/part1/nios_system/testbench/nios_system_tb/simulation/submodules/nios_system_mm_interconnect_0_router.sv|
+Z11 !s90 -reportprogress|300|-sv|C:/342lab4/part1/nios_system/testbench/nios_system_tb/simulation/submodules/nios_system_mm_interconnect_0_router.sv|-L|altera_common_sv_packages|-work|router|
+!i113 1
+Z12 o-sv -L altera_common_sv_packages -work router
+Z13 tCvgOpt 0
+vnios_system_mm_interconnect_0_router_default_decode
+R1
+R2
+!i10b 1
+!s100 @Kjlo5^nO7WK4K8F[k4m;1
+IohcMW0X6;8NQAYOT<4KCn1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 45
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13

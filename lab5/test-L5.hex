@@ -1,0 +1,13 @@
+@00000000
+// main:
+93 02 00 00 	// loop counter
+13 05 f0 00 	// loop max
+13 09 00 f0 	// addr
+// loop:
+63 dc a2 00 	// if done
+83 23 09 00 	// lw dest, addr, offset
+93 f3 f3 0f 
+23 20 79 00 	// sw addr, data, offset
+93 82 42 00 
+6f f0 df fe 	// jump to top of loop
+// end:	// idle her
